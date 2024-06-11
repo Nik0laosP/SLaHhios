@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXk5N3Vqa2kzcWNpeHZ0MHBndXF4enJwOWhiMGsxb254bTlsOXFkdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wwg1suUiTbCY8H8vIA/giphy-downsized-large.gif" width="300"/>
+<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXk5N3Vqa2kzcWNpeHZ0MHBndXF4enJwOWhiMGsxb254bTlsOXFkdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wwg1suUiTbCY8H8vIA/giphy-downsized-large.gif" width="200"/>
 
 
 <div>
@@ -28,13 +28,13 @@
     
    <img  width = "50" height = "50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
 
-  
    <img width = "50" height = "50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" />
        
    <img width = "50" height = "50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
-             
-  
-</div>
+    
+   <img width = "50" height = "50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" />
+                   
+  </div>
 
 
 ---
